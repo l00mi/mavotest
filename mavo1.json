@@ -8,13 +8,13 @@
 	"@context": "http://schema.org/",
 	"collection": [
 		{
-			"hasPart": "http://zazuko.com",
+			"hasPart": "blub",
 			"name": "Test",
 			"@context": "http://schema.org/"
 		},
 		{
-			"hasPart": "http://zazko.ch",
-			"name": "Test2",
+			"hasPart": "test",
+			"name": "test",
 			"@context": "http://schema.org/"
 		}
 	]
