@@ -5,5 +5,17 @@
 		"Eating",
 		"test"
 	],
-	"@context": "http://zazuko.com"
+	"@context": "http://schema.org/WebSite",
+	"collection": [
+		{
+			"hasPart": "http://zazuko.com",
+			"name": "Test",
+			"@context": "http://schema.org/"
+		},
+		{
+			"hasPart": "http://zazko.ch",
+			"name": "Test2",
+			"@context": "http://schema.org/"
+		}
+	]
 }
