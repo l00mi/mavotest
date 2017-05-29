@@ -1,7 +1,9 @@
 {
 	"hobby": [
 		"asdfasdf\n",
+		"sdfsdf\n",
 		"Eating",
 		"test"
-	]
+	],
+	"@context": "http://zazuko.com"
 }
